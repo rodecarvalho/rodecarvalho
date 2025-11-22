@@ -1,28 +1,24 @@
 # Hi, I'm Rodrigo 👋
 
-I help ecommerce and retail businesses turn AI and agentic workflows into real business impact—faster launches, increased conversion, and happier customers.
+I focus on accelerating the adoption and practical impact of AI agents and generative AI workflows for e-commerce and retail businesses.
 
-Most of my work is hands-on: real code, clear patterns, and tested setups for AI Agents, RAG systems, and seamless integrations with Shopify and commerce platforms.
+My work centers on providing actionable frameworks and ready-to-implement solutions for building, deploying, and scaling AI Agents, Retrieval-Augmented Generation (RAG), and advanced automation using local and cloud-based large language models (LLMs)—specifically tailored for Shopify and commerce platforms.
 
-I run the open-source [Awesome Comic Retail AI](https://github.com/rodecarvalho/awesome-comic-retail-ai), the repo where I drop complete agent templates, clean starter kits, and advanced demos that help retail teams skip the noise and get straight to building.
+Through my open-source community, I help organizations and professionals fast-track their AI journey by sharing proven templates, strategic playbooks, and hands-on examples—bridging the gap between technical complexity and real-world business value.
 
-**What I work on**
+## What I work on
 
-- 🧠 AI Agents: customer support bots, product discovery, inventory optimization, merchandising automation
-- 📦 Ready-to-run examples: clone → customize → run (tailored for Shopify & ecommerce)
-- 🔧 Dev workflows: how to structure agents, handle tools, logs, eval, planning
-- 🗂️ RAG setups: connect your product catalogs, internal docs, or ticket history for smarter retrieval
-- 💬 Chat-with-anything apps: integrate with store data, comics info, PDFs, customer messages
-- 🚀 Fine-tuning and model selection: open source vs. proprietary strategy for your business
-- 🧩 Education for teams: practical guides to help retail teams understand what's possible with AI
+- 🧠 **AI Agent Solutions:** Architecting practical AI agent use-cases for customer service, product discovery, inventory optimization, and merchandising automation.
+- 📦 **Market-Ready Accelerators:** Delivering pre-built, operational frameworks and demo solutions (clone → customize → run) to minimize time-to-value for AI adoption—tailored for Shopify & e-commerce teams.
+- 🔧 **AI Implementation Best Practices:** Defining robust workflows for AI integration, monitoring, continuous improvement, risk management, and performance measurement.
+- 🗂️ **Intelligent Information Retrieval (RAG):** Enabling organizations to leverage both internal and external data with powerful, context-aware search and knowledge management tools (connect your product catalogs, internal docs, or ticket history for smarter retrieval).
+- 💬 **Next-Gen Interaction Platforms:** Developing applications that allow seamless conversations and operations across major business content types—store data, comics information, PDFs, and customer communications.
+- 🚀 **Customization and Optimization:** Advising on the strategic selection and fine-tuning of open-source AI models (Llama, Gemma, etc.) versus proprietary solutions to match your business strategy and unique requirements.
+- 🧩 **Upskilling and Enablement:** Publishing business-friendly guides and practical crash courses that demystify advanced AI concepts and empower retail teams to innovate with AI confidently.
 
 ## About Me
 
-- 🎯 **E-commerce & Retail AI**: Focused on comic book retail, market analysis, and AI-powered commerce solutions
+- 🎯 **E-commerce & Retail AI:** Focused on leveraging AI agents and agentic workflows to drive measurable business outcomes—faster launches, increased conversion, and happier customers.
 - 🛍️ Working at [Walt's Comic Shop Berlin](https://www.walts-comics.de/) | E-commerce & Market Research
-- 💡 Passionate about e-commerce, competitive intelligence, and no-code/low-code AI solutions
-- 🌱 Always open for chat about building the next generation of retail tech, AI agents, or commerce automation
-
----
-
-*Note: Edit this README and customize each section with your own content, projects, and links. Just click the edit icon to get started!*
+- 💡 Passionate about e-commerce, competitive intelligence, market analysis, and scalable AI solutions for retail
+- 🌱 Always open for chat about building the next generation of retail tech, AI agents, commerce automation, or market opportunities
