@@ -19,6 +19,6 @@ Through my open-source community, I help organizations and professionals fast-tr
 ## About Me
 
 - 🎯 **E-commerce & Retail AI:** Focused on leveraging AI agents and agentic workflows to drive measurable business outcomes—faster launches, increased conversion, and happier customers.
-- 🛍️ Working at [Walt's Comic Shop Berlin](https://www.walts-comics.de/) | E-commerce & Market Research
+- 🛍️ Last job at [World Food Programme @ Viamo](https://innovation.wfp.org/project/viamo-voice-companion) | Product Manager
 - 💡 Passionate about e-commerce, competitive intelligence, market analysis, and scalable AI solutions for retail
 - 🌱 Always open for chat about building the next generation of retail tech, AI agents, commerce automation, or market opportunities
