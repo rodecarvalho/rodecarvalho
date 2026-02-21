@@ -18,7 +18,4 @@ Through my open-source community, I help organizations and professionals fast-tr
 
 ## About Me
 
-- 🎯 **E-commerce & Retail AI:** Focused on leveraging AI agents and agentic workflows to drive measurable business outcomes—faster launches, increased conversion, and happier customers.
-- 🛍️ Last job at [World Food Programme @ Viamo](https://innovation.wfp.org/project/viamo-voice-companion) | Product Manager
-- 💡 Passionate about e-commerce, competitive intelligence, market analysis, and scalable AI solutions for retail
-- 🌱 Always open for chat about building the next generation of retail tech, AI agents, commerce automation, or market opportunities
+- 🌱 Current project I'm working on: https://github.com/r0l0pes/jobquest
