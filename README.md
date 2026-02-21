@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo 👋
 
-I focus on accelerating the adoption and practical impact of AI agents and generative AI workflows for e-commerce and retail businesses.
+I focus on accelerating the adoption and practical impact of AI agents and generative AI workflows for Growth Teams.
 
 My work centers on providing actionable frameworks and ready-to-implement solutions for building, deploying, and scaling AI Agents, Retrieval-Augmented Generation (RAG), and advanced automation using local and cloud-based large language models (LLMs)—specifically tailored for Shopify and commerce platforms.
 
