@@ -2,9 +2,9 @@
 
 I focus on accelerating the adoption and practical impact of AI agents and generative AI workflows for Growth Teams.
 
-My work centers on providing actionable frameworks and ready-to-implement solutions for building, deploying, and scaling AI Agents, Retrieval-Augmented Generation (RAG), and advanced automation using local and cloud-based large language models (LLMs)—specifically tailored for Shopify and commerce platforms.
+My work centers on providing actionable frameworks and ready-to-implement solutions for building, deploying, and scaling AI Agents, Retrieval-Augmented Generation (RAG), and advanced automation using local and cloud-based large language models (LLMs)—specifically.
 
-Through my open-source community, I help organizations and professionals fast-track their AI journey by sharing proven templates, strategic playbooks, and hands-on examples—bridging the gap between technical complexity and real-world business value.
+Through the open-source community, I help organizations and professionals fast-track their AI journey by sharing proven templates, strategic playbooks, and hands-on examples—bridging the gap between technical complexity and real-world business value.
 
 ## What I work on
 
