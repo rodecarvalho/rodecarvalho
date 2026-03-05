@@ -1,21 +1,39 @@
-# Hi, I'm Rodrigo 👋
+# Hi, I'm Rodrigo
 
-I focus on accelerating the adoption and practical impact of AI agents and generative AI workflows for Growth Teams.
+Product Manager and Builder. Berlin, Madrid.
 
-My work centers on providing actionable frameworks and ready-to-implement solutions for building, deploying, and scaling AI Agents, Retrieval-Augmented Generation (RAG), and advanced automation using local and cloud-based large language models (LLMs)—specifically.
+Eight years building products at the intersection of growth, AI, and international scale.
 
-Through the open-source community, I help organizations and professionals fast-track their AI journey by sharing proven templates, strategic playbooks, and hands-on examples—bridging the gap between technical complexity and real-world business value.
+My focus is on making AI agents and GenAI workflows actually work for Growth teams — not as prototypes, but as deployed systems that change how a business operates.
+
+---
 
 ## What I work on
 
-- 🧠 **AI Agent Solutions:** Architecting practical AI agent use-cases for customer service, product discovery, inventory optimization, and merchandising automation.
-- 📦 **Market-Ready Accelerators:** Delivering pre-built, operational frameworks and demo solutions (clone → customize → run) to minimize time-to-value for AI adoption—tailored for Shopify & e-commerce teams.
-- 🔧 **AI Implementation Best Practices:** Defining robust workflows for AI integration, monitoring, continuous improvement, risk management, and performance measurement.
-- 🗂️ **Intelligent Information Retrieval (RAG):** Enabling organizations to leverage both internal and external data with powerful, context-aware search and knowledge management tools (connect your product catalogs, internal docs, or ticket history for smarter retrieval).
-- 💬 **Next-Gen Interaction Platforms:** Developing applications that allow seamless conversations and operations across major business content types—store data, comics information, PDFs, and customer communications.
-- 🚀 **Customization and Optimization:** Advising on the strategic selection and fine-tuning of open-source AI models (Llama, Gemma, etc.) versus proprietary solutions to match your business strategy and unique requirements.
-- 🧩 **Upskilling and Enablement:** Publishing business-friendly guides and practical crash courses that demystify advanced AI concepts and empower retail teams to innovate with AI confidently.
+**AI Agent Solutions** — end-to-end architecture for customer service automation, product discovery, inventory optimization, and merchandising. Live deployments, not demos.
 
-## About Me
+**RAG and Intelligent Retrieval** — connecting internal data (product catalogs, docs, ticket history) to LLMs that can reason over it. The technical part is not the hard part. Getting organizations to trust and use the output is.
 
-- 🌱 Current project I'm working on: https://github.com/r0l0pes/jobquest
+**Market-Ready Accelerators** — pre-built frameworks built for the clone-customize-run pattern. Shopify and e-commerce teams ship faster with templates that have already solved the integration layer.
+
+**Implementation and Governance** — workflows for AI integration, monitoring, LLM evaluation, and risk management. The EU AI Act is starting to separate companies that shipped AI features from companies that built the compliance and safety layer around them. Most teams did the first part. The second part is still open work.
+
+**Upskilling and Enablement** — business-friendly guides and crash courses for retail and growth teams. Demystifying LLMs, RAG, and agent architectures for people who make product decisions but don't write code.
+
+---
+
+## Recent work at WFP (United Nations World Food Programme)
+
+- Voice AI agent deployed across 20+ countries: IVR, speech-to-text, NLP classification, escalation logic for non-technical field staff
+- LLM validation platform: guardrails against hallucination, humanitarian data governance compliance, adoption toolkits for field teams who had no prior AI exposure
+- Automated reporting pipeline replacing 40+ hours of manual work per month
+
+---
+
+## Building
+
+**[JobQuest](https://github.com/r0l0pes/jobquest)** — Automated job application pipeline. Scrapes job postings, runs two-stage LLM tailoring (analysis brief then LaTeX generation), ATS keyword analysis, PDF compilation, Notion tracker entry. Multi-provider LLM fallback (Gemini, DeepSeek, OpenRouter). 9-step pipeline.
+
+---
+
+Two types of AI PMs are emerging from this wave. The ones who shipped features. The ones who built the system around the features. The gap between them compounds every quarter.
