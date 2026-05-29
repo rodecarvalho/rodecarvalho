@@ -43,6 +43,4 @@ My focus is on making AI agents and GenAI workflows actually work for Growth tea
 
 **[JobQuest](https://github.com/r0l0pes/jobquest)** — Automated job application pipeline. Scrapes job postings, runs two-stage LLM tailoring (analysis brief then LaTeX generation), ATS keyword analysis, PDF compilation, Notion tracker entry. Multi-provider LLM fallback (Gemini, DeepSeek, OpenRouter). 9-step pipeline.
 
----
 
-Two types of AI PMs are emerging from this wave. The ones who shipped features. The ones who built the system around the features. The gap between them compounds every quarter.
