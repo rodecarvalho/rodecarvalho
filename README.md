@@ -1,7 +1,6 @@
 # Hi, I'm Rodrigo
 
-Senior Product Manager at the intersection of Growth and AI. Berlin.
-
+Senior Product Manager at the intersection of Growth and AI. 
 Building products that turn growth loops into AI-powered systems — from SMS personalization engines serving 18,000+ merchants to conversational commerce channels generating billions in GMV.
 
 My focus is on making AI agents and GenAI workflows actually work for Growth teams — not as prototypes, but as deployed systems that change how a business operates.
